@@ -188,7 +188,6 @@ h3 {
 
 .medias {
   text-align: center;
-  padding-right: 140px;
   font-size: 20px;
   font-family: 'Courier New', Courier, monospace;
   color: white;
@@ -196,38 +195,44 @@ h3 {
   text-decoration: none;
 }
 
-.social{
+.social {
   text-align: center;
   padding-bottom: 120px;
 }
 
-.fa-linkedin{
+.fa-linkedin {
   color: #0A66C2;
   font-size: 30px;
   margin-left: 20px;
 }
 
-.fa-github{
+.fa-github {
   color: #AFB5BB;
   font-size: 30px;
   margin-left: 20px;
 }
 
-.fa-instagram{
+.fa-instagram {
   color: #C338A9;
   font-size: 30px;
   margin-left: 20px;
 }
 
 
-.fa-facebook-square{
+.fa-facebook-square {
   color: #0674E7;
   font-size: 30px;
   margin-left: 20px;
 }
 
+.fa-spotify {
+  color: #4DCC5B;
+  font-size: 30px;
+  margin-left: 20px;
+}
 
-.fa-twitter-square{
+
+.fa-twitter-square {
   color: #1A91DA;
   font-size: 30px;
   margin-left: 20px;
